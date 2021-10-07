@@ -7,6 +7,8 @@ Customize this README.md however you want to turn it into documentation for your
 ## Project Plan
 
 _(Put your project plan here. It could be pseudocode, an outline-style development plan, etc. But whatever form you choose, it should be detailed enough that another developer could feasibly use it to implement your solution.)_
+Use a while loop to loop to create the span tag where the number to be place
+Create new while loop to loop inside another while loop and multiply the result together to get the multiplication table
 
 ## Reflection
 
