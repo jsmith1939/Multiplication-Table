@@ -1,1 +1,25 @@
 /* Write your CSS here */
+.cell {
+	display: inline-block;
+	width: 30px;
+	height: 30px;
+	text-align: right;
+	text-align: center;
+}
+.header {
+	background: purple;
+	text-align: center;
+}
+.product {
+	text-align: center;
+}
+#color {
+	text-align: center;
+	background-color: grey;
+	color: white;
+}
+#size {
+	text-align: center;
+	background-color: grey;
+	color: white;
+}
