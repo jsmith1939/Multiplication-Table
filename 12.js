@@ -1,11 +1,9 @@
-// Your code here
-// Russel. L helped styling
 document.write("<span class='cell header'> &times; </span>");
 
 let i = 0;
 let row = 0;
-let rowNum = 10;
-let colNum = 10;
+let rowNum = 12;
+let colNum = 12;
 
 while (i <= colNum) {
 	document.write('<span class="cell header">' + i + '</span>');
